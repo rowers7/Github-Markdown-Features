@@ -36,3 +36,15 @@ daha fazlası için : https://gist.github.com/rxaviers/7360908
 <br>
 
 https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji
+
+
+
+
+## Tablolar
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
