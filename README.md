@@ -18,6 +18,8 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 - [x] Tablo
 - [ ] Arka plan rengi
 - [ ] Yazının rengi
+- [ ] Github repo içi link verme
+
 
 
 
