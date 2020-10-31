@@ -12,15 +12,15 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 
 ### 1-Basit
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Toggler
+- [x] Onay Kutusu
+- [x] Tablo
+- [ ] Arka plan rengi
+- [ ] Yazı rengi
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 <br>
