@@ -29,5 +29,10 @@ Done? | Name
 ✅| Yep
 
 <br>
-
+https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table
+<br>
 daha fazlası için : https://gist.github.com/rxaviers/7360908
+
+<br>
+
+https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji
