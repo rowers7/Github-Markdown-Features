@@ -49,8 +49,8 @@ Content from cell 1 | ------------- | ------------ | ------------- | -----------
 
 
 Spark | PoweBI / Tableau | PostgreSQL/MSSQL | Knime | Excell 
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+:------------ | :-------------| :-------------| :------------- | :-------------
+substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 
 Done? | Name
