@@ -12,13 +12,14 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 
 ### 1-Basit
 
+
+- [ ] 
+- [ ] 
 - [ ] Toggler
 - [x] Onay Kutusu
 - [x] Tablo
 - [ ] Arka plan rengi
 - [ ] Yazının rengi
-- [ ] 
-- [ ] 
 
 
 
