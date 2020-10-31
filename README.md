@@ -15,18 +15,6 @@
 - [ ] Neptune
 - [ ] Comet Haley
 
-### 2-Gelişmiş
-
-
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
-
-
-Done? | Name
-:---:| ---
-⬜️| Nope
-✅| Yep
 
 <br>
 https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table
@@ -48,3 +36,17 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 
+
+
+## İkisi bi arada
+
+
+Function | MySQL / MariaDB | PostgreSQL | SQLite
+:------------ | :-------------| :-------------| :-------------
+substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+
+
+Done? | Name
+:---:| ---
+⬜️| Nope
+✅| Yep
