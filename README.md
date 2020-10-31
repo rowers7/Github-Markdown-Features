@@ -13,7 +13,6 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 ### 1-Basit
 
 
-- [ ] 
 - [ ] Toggler
 - [x] Onay Kutusu
 - [x] Tablo
@@ -38,10 +37,10 @@ https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji
 
 ## Tablolar
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Veri Bilimi | Makine Öğrenmesi | Doğal Dil İşleme | Derin Öğrenme | Büyük Veri
+------------ | ------------- | ------------- | ------------- | -------------
+Content from cell 1 | ------------- | ------------ | ------------- | -------------
+1 | 2 | 3 | 4 | 5
 
 
 
